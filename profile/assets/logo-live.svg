@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 92" role="img" aria-label="jov.co.za">
+	<title>jov.co.za</title>
+	<!-- The wordmark with the tittle in the live green — the same colour the
+	     dashboard uses for a held-open connection. For marketing surfaces. -->
+	<style>
+		svg { color: #171717; }
+		.live { fill: #16a34a; }
+		@media (prefers-color-scheme: dark) {
+			svg { color: #fafafa; }
+			.live { fill: #22c55e; }
+		}
+	</style>
+
+	<g fill="none" stroke="currentColor" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+		<path d="M28 28 V60 C28 73 20 78 12 76" />
+		<circle cx="70" cy="46" r="18" />
+		<path d="M104 28 L120 64 L136 28" />
+	</g>
+
+	<circle class="live" cx="28" cy="13" r="5.5" />
+</svg>
