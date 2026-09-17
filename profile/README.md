@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo-live.svg" alt="Jov" width="260">
+  <img src="https://jov.co.za/logo-light.svg?v=2" alt="Jov" width="260">
 </p>
 
 <p align="center">
